@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cart/
+Disallow: /components/
+Disallow: /context/
+Disallow: /login/
+Disallow: /profile/
+Disallow: /register/
+Disallow: /wishlist/
+Allow: /app/api/
+Allow: /app/product/
+Sitemap: http://step.clrn1w.me/sitemap
